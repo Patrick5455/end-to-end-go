@@ -1,5 +1,2 @@
-package main
+package section2
 
-func main() {
-	$END$
-}

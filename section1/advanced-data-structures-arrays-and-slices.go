@@ -2,9 +2,9 @@ package section1
 
 import "fmt"
 
-func main() {
+func PrintArrays() {
 	arr:= [5]int{1, 2, 3,4} //arrays
-	var slice = []int{1,2,3,}
+	var slice = []int{1,2,3}
 
 	fmt.Println("printing from arrays")
 	for x:= range arr {
